@@ -44,8 +44,8 @@
 </head>
 <body>
 
-    <h1>The Language of Love: A Conceptual AI Collaboration</h1>
-    <p>This project is a comprehensive case study in human-AI collaboration for a unique creative undertaking. <strong>"The Language of Love"</strong> is a symbolic language designed to express abstract concepts and emotions, moving beyond the constraints of traditional linguistic structures. The project's core output is a detailed conceptual framework that acts as a lexicon and rulebook for this new communication system.</p>
+    <h1>The Library of Love: A Conceptual AI Collaboration</h1>
+    <p>This project is a comprehensive case study in human-AI collaboration for a unique creative undertaking. <strong>"The Library of Love"</strong> is a symbolic language designed to express abstract concepts and emotions, moving beyond the constraints of traditional linguistic structures. The project's core output is a detailed conceptual framework that acts as a lexicon and rulebook for this new communication system.</p>
 
     <h2>The Problem</h2>
     <p>Traditional languages can sometimes fail to express the full nuance of complex emotions and human connection. This project sought to address that by building a new, intentional language where the symbols themselves carry emotional weight, allowing for profound and layered communication.</p>
