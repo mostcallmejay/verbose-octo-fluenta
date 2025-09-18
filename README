@@ -1,28 +1,29 @@
-    <h1>The Library of Love: A Conceptual AI Collaboration</h1>
-    <p>This project is a comprehensive case study in human-AI collaboration for a unique creative undertaking. <strong>"The Library of Love"</strong> is a symbolic language designed to express abstract concepts and emotions, moving beyond the constraints of traditional linguistic structures. The project's core output is a detailed conceptual framework that acts as a lexicon and rulebook for this new communication system.</p>
+# The Library of Love: A Conceptual AI Collaboration
 
-    <h2>The Problem</h2>
-    <p>Traditional languages can sometimes fail to express the full nuance of complex emotions and human connection. This project sought to address that by building a new, intentional language where the symbols themselves carry emotional weight, allowing for profound and layered communication.</p>
+This project is a comprehensive case study in human-AI collaboration for a unique creative undertaking. **"The Library of Love"** is a symbolic language designed to express abstract concepts and emotions, moving beyond the constraints of traditional linguistic structures. The project's core output is a detailed conceptual framework that acts as a lexicon and rulebook for this new communication system.
 
-    <h2>My Role: The Prompt Engineer</h2>
-    <p>As the conceptual lead, I guided an advanced large language model (LLM) through an iterative design process. My role was not to write the content myself but to act as a <strong>Prompt Engineer</strong>—defining the project's vision, structuring the development process, and refining the output through precise, targeted instructions.</p>
+## The Problem
 
-    <p>Key responsibilities and skills demonstrated include:</p>
-    <ul>
-        <li><strong>Systems Design:</strong> Architecting a complex, rule-based system from an abstract idea. This involved defining core principles, establishing a symbolic alphabet, and creating rules for how these symbols would interact.</li>
-        <li><strong>Generative AI Collaboration:</strong> Effectively leveraging an AI as a creative and analytical partner. I used a conversational workflow to systematically build, test, and refine the language, demonstrating a modern approach to project development.</li>
-        <li><strong>Structured Documentation:</strong> Translating complex, abstract concepts into clear, concise, and structured written documentation. This resulted in two comprehensive markdown documents, one in English and a synchronized translation in French.</li>
-        <li><strong>Iterative Development &amp; Debugging:</strong> Continuously refining the project by adding new concepts (e.g., more complex emotions, negative states) and ensuring consistency across all documentation.</li>
-    </ul>
+Traditional languages can sometimes fail to express the full nuance of complex emotions and human connection. This project sought to address that by building a new, intentional language where the symbols themselves carry emotional weight, allowing for profound and layered communication.
 
-    <h2>The Resulting Artifacts</h2>
-    <p>The project is encapsulated in two primary documents:</p>
-    <ul>
-        <li><strong>language_of_love.md:</strong> The complete conceptual framework and dictionary in English, detailing all symbols, intents, and examples.</li>
-        <li><strong>langage_d_amour.md:</strong> A fully synchronized French translation of the framework, demonstrating the system's scalability and adaptability.</li>
-    </ul>
-    <h2>Future Scope</h2>
-    <p>This project is an ongoing exploration of communication design. Future work could include creating a parser to translate human language into the "Language of Love" or expanding the lexicon to include more philosophical concepts.</p>
+## My Role: The Prompt Engineer
 
-</body>
-</html>
+As the conceptual lead, I guided an advanced large language model (LLM) through an iterative design process. My role was not to write the content myself but to act as a **Prompt Engineer**—defining the project's vision, structuring the development process, and refining the output through precise, targeted instructions.
+
+Key responsibilities and skills demonstrated include:
+
+* **Systems Design:** Architecting a complex, rule-based system from an abstract idea. This involved defining core principles, establishing a symbolic alphabet, and creating rules for how these symbols would interact.
+* **Generative AI Collaboration:** Effectively leveraging an AI as a creative and analytical partner. I used a conversational workflow to systematically build, test, and refine the language, demonstrating a modern approach to project development.
+* **Structured Documentation:** Translating complex, abstract concepts into clear, concise, and structured written documentation. This resulted in two comprehensive markdown documents, one in English and a synchronized translation in French.
+* **Iterative Development & Debugging:** Continuously refining the project by adding new concepts (e.g., more complex emotions, negative states) and ensuring consistency across all documentation.
+
+## The Resulting Artifacts
+
+The project is encapsulated in two primary documents:
+
+* **language_of_love.md:** The complete conceptual framework and dictionary in English, detailing all symbols, intents, and examples.
+* **langage_d_amour.md:** A fully synchronized French translation of the framework, demonstrating the system's scalability and adaptability.
+
+## Future Scope
+
+This project is an ongoing exploration of communication design. Future work could include creating a parser to translate human language into the "Language of Love" or expanding the lexicon to include more philosophical concepts.
