@@ -28,5 +28,5 @@ The project is encapsulated in two primary documents:
 
 ## Future Scope
 
-This project is an ongoing exploration of communication design. Future work could include creating a parser to translate human language into the "Language of Love" or expanding the lexicon to include more philosophical concepts.
+This project is an ongoing exploration of communication design. Future work could include creating a parser to translate human language into the "Library of Love" or expanding the lexicon to include more philosophical concepts.
 
