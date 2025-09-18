@@ -22,7 +22,6 @@ Key responsibilities and skills demonstrated include:
 The project is encapsulated in two primary documents:
 
 * **language_of_love.md:** The complete conceptual framework and dictionary in English, detailing all symbols, intents, and examples.
-* **langage_d_amour.md:** A fully synchronized French translation of the framework, demonstrating the system's scalability and adaptability.
 
 ## Future Scope
 
