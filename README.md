@@ -21,7 +21,10 @@ Key responsibilities and skills demonstrated include:
 
 The project is encapsulated in two primary documents:
 
-* **language_of_love.md:** The complete conceptual framework and dictionary in English, detailing all symbols, intents, and examples.
+* **The Library of Love- A Conceptual Framework.pdf:** The complete conceptual framework and dictionary in English, detailing all symbols, intents, and examples.
+* **Another Lexicon of Love for the English Alphabet - Google Docs.pdf:**
+* **Mathematical Representation of Love as a Solution to a Problem - Google Docs.pdf:**
+* **The Love Compass_ Guiding Generations to Flourish - Google Docs.pdf:**
 
 ## Future Scope
 
